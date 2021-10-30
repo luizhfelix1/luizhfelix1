@@ -21,7 +21,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 --->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizrickfelix&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
-</a>
+</a><br />
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrickfelix&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
