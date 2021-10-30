@@ -33,11 +33,11 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 <a href="https://github.com/luizrickfelix/pokeapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=pokeapi&theme=tokyonight" />
 </a>
-<!--
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=pokeapi.github.io&theme=buefy" />
+
+<a href="https://github.com/luizrickfelix/eloquente-javascript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=eloquente-javascript.github.io&theme=tokyonight" />
 </a>
--->
+
 
 <br />
 <br />
