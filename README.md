@@ -1,7 +1,5 @@
 ##### Hi there 👋
 
-
-
 <br />
 
 I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
@@ -13,9 +11,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 - Love skateboarding and rock and roll 🤘
 
 
-
-#### Languages and Tools: 
-
+#### Languages and Tools 
 <!--- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -27,8 +23,8 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizrickfelix&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrickfelix&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
+#### Top Repositories
 
 <a href="https://github.com/luizrickfelix/pokeapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=pokeapi&theme=tokyonight" />
@@ -41,7 +37,6 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 <a href="https://github.com/luizrickfelix/eloquente-javascript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=eloquente-javascript&theme=tokyonight" />
 </a>
-
 
 <br />
 <br />
