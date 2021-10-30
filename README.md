@@ -1,4 +1,4 @@
-### Hi there 👋
+##### Hi there 👋
 
 
 
@@ -6,7 +6,7 @@
 
 I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 
-**About me**
+#### About me
 
 - 💼 Software Engineer | Scrum Master at [Made4it](https://www.made4it.com.br/)
 
@@ -14,7 +14,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 
 
 
-**Languages and Tools:** 
+#### Languages and Tools: 
 
 <!--- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -46,7 +46,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 <br />
 <br />
 
-### Contacts
+#### Contacts
 
 <div>  
   <a href="https://www.youtube.com/channel/UC8rcXeanRTj2SpEFUUj2o5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
