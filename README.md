@@ -31,7 +31,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=pokeapi&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=poke&theme=buefy" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
