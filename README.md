@@ -27,6 +27,10 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrickfelix&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
+[![luizrickfelix's github stats](https://github-readme-stats.vercel.app/api?username=luizrickfelix&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/luizrickfelix) [![luizrickfelix's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=luizrickfelix&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/luizrickfelix)
+
+![](https://hit.yhype.me/github/profile?user_id=3362854)
+
 
 # Top Repositories
 
