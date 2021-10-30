@@ -41,7 +41,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 <br />
 <br />
 
-#### Contactsa
+#### Contacts
 
 <div>  
   <a href="https://www.youtube.com/channel/UC8rcXeanRTj2SpEFUUj2o5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
