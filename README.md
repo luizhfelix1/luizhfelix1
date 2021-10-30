@@ -1,10 +1,10 @@
-# Hi there 👋
+### Hi there 👋
 
 <br />
 
 I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 
-#### About me
+# About me
 
 - 💼 Software Engineer | Scrum Master at [Made4it](https://www.made4it.com.br/)
 
@@ -26,7 +26,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 </a>
 
 
-#### Top Repositories
+# Top Repositories
 
 <a href="https://github.com/luizrickfelix/pokeapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=pokeapi&theme=tokyonight" />
@@ -43,7 +43,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 <br />
 <br />
 
-#### Contacts
+# Contacts
 
 <div>  
   <a href="https://www.youtube.com/channel/UC8rcXeanRTj2SpEFUUj2o5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
