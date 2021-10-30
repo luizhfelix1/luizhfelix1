@@ -30,7 +30,7 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/luizrickfelix/pokeapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=pokeapi&theme=tokyonight" />
 </a>
 <!--
