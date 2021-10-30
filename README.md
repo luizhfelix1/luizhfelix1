@@ -35,9 +35,6 @@ I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
 <a href="https://github.com/luizrickfelix/eloquente-javascript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=eloquente-javascript&theme=tokyonight" />
 </a>
-<a href="https://github.com/luizrickfelix/eloquente-javascript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=eloquente-javascript&theme=tokyonight" />
-</a>
 <!-- <a href="https://github.com/luizrickfelix/eloquente-javascript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizrickfelix&repo=nlw3-discovery-happy&theme=tokyonight" />
 </a> -->
