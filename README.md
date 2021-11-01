@@ -6,7 +6,7 @@ I'm a Software Engineer from Brazil 🇧🇷
 
 ## About me
 
-- 💼 Software Engineer at [Made4it](https://www.made4it.com.br/)
+- Software Engineer at [Made4it](https://www.made4it.com.br/) 💼 
 
 - Love skateboarding and rock and roll 🤘
 
