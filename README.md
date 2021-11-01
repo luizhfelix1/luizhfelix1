@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a Software Engineer | Scrum Master from Brazil 🇧🇷
+I'm a Software Engineer from Brazil 🇧🇷
 
 ## About me
 
-- 💼 Software Engineer | Scrum Master at [Made4it](https://www.made4it.com.br/)
+- 💼 Software Engineer at [Made4it](https://www.made4it.com.br/)
 
 - Love skateboarding and rock and roll 🤘
 
