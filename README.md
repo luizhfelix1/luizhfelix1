@@ -2,13 +2,13 @@
 
 <br />
 
-I'm a Software Engineer from Brazil 🇧🇷
+I'm a Software Development Cordinator/Developer from Brazil 🇧🇷
 
 ## About me
 
-- Software Engineer at [Made4it](https://www.made4it.com.br/) 💼 
+- Software Development Cordinator/Developer at [Made4it](https://www.made4it.com.br/) 💼 
 
-- Love skateboarding and rock and roll 🤘
+- Love skateboard, One Piece and Heavy Metal! 🤘
 
 
 ## Github Stats 
