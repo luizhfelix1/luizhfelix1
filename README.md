@@ -2,13 +2,15 @@
 
 <br />
 
-I'm a Software Development Cordinator/Developer from Brazil 🇧🇷
+I'm a Dev Coordinator and Dev from Brazil 🇧🇷 
+
+Work with PHP, JS, Laravel, Node, Next.JS, React and more.
 
 ## About me
 
-- Software Development Cordinator/Developer at [Made4it](https://www.made4it.com.br/) 💼 
+- Dev Coordinator and Dev at [Made4it](https://www.made4it.com.br/) 💼 
 
-- Love skateboard, One Piece and Heavy Metal! 🤘
+- I love skateboard and One Piece! 🤘
 
 
 ## Github Stats 
