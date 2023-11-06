@@ -2,9 +2,9 @@
 
 <br />
 
-I'm a Dev Coordinator and Dev from Brazil 🇧🇷 
+Brazil 🇧🇷 
 
-Work with PHP, JS, Laravel, Node, Next.JS, React and more.
+Work with PHP, JS, Laravel, Node.Js, Next.Js, React and more...
 
 ## About me
 
