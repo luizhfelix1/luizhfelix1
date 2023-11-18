@@ -37,9 +37,9 @@ Work with PHP, JS, Laravel, Node.Js, Next.Js, React and more...
 <a href="https://github.com/luizhfelix1/eloquente-javascript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizhfelix1&repo=eloquente-javascript&theme=tokyonight" />
 </a>
-<!-- <a href="https://github.com/luizhfelix1/eloquente-javascript">
+<a href="https://github.com/luizhfelix1/eloquente-javascript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizhfelix1&repo=nlw3-discovery-happy&theme=tokyonight" />
-</a> -->
+</a>
 <br />
 <br />
 
