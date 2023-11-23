@@ -4,7 +4,7 @@
 
 Brazil 🇧🇷 
 
-Work with PHP, JS, Laravel, Node.Js, Next.Js, React and more...
+Work with PHP, JavaScript, Laravel, Node.js, Next.js, React and more...
 
 ## About me
 
