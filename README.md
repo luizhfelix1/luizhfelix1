@@ -8,7 +8,8 @@ Work with PHP, JavaScript, Laravel, Node.js, Next.js, React and more...
 
 ## About me
 
-- Dev Coordinator at [Made4it](https://www.made4it.com.br/) 💼 
+- Software Engineer Manager at [Made4it](https://www.made4it.com.br/) 💼
+- Co-Founder [JL Growth Digital](https://www.jlgrowthdigital.com.br/) 🖥️
 
 - I love skateboard and One Piece! 🤘
 
