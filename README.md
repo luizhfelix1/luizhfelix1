@@ -11,8 +11,6 @@ Work with PHP, JavaScript, Laravel, Node.js, Next.js, React and more...
 - Software Engineer Manager at [Made4it](https://www.made4it.com.br/) 💼
 - Co-Founder [JL Growth Digital](https://www.jlgrowthdigital.com.br/) 🖥️
 
-- I love skateboard and One Piece! 🤘
-
 
 ## Github Stats 
 
@@ -46,12 +44,10 @@ Work with PHP, JavaScript, Laravel, Node.js, Next.js, React and more...
 
 ## Contacts
 
-<div>  
-  <a href="https://www.youtube.com/channel/UC8rcXeanRTj2SpEFUUj2o5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
+<div>   
   <a href="https://www.instagram.com/luizhfelix1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 <!-- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->  
- <!-- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->  
-  <a href = "mailto:luizrickfelix@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+ <!-- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->   
   <a href="https://www.linkedin.com/in/luizhfelix1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/luizhfelix1/luizrickfelix/blob/output/github-contribution-grid-snake.svg)
